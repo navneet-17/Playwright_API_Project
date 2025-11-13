@@ -1,0 +1,9 @@
+{
+  "name": "Navneet Shree",
+  "job": "SDET",
+  "skills": ["Java", "Selenium", "Playwright", "Typescript"],
+  "address": {
+    "street": "123 ABC Road",
+    "city": "Pune"
+  }
+}
