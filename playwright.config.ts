@@ -32,11 +32,11 @@ export default defineConfig({
     trace: "on-first-retry",
 
     // launch test on UI, show the browser window (headful)
-    headless: false,
+    headless: true,
 
     // optional: slow down actions so you can visually follow them
     launchOptions: {
-      slowMo: 10000,
+      slowMo: 5000,
     },
   },
 
